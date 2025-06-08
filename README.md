@@ -33,6 +33,8 @@ Intersection over Union (IoU): 0.8742
 Accuracy: 0.9992
 
 Loss: 0.0747
+![11](https://github.com/user-attachments/assets/fb483d13-0761-4c5b-8fdf-e18d3bde7bf7)
+![22](https://github.com/user-attachments/assets/a8d61563-206e-4171-a3b4-8702c76e81e0)
 
 3. CSA Measurement
 CSA computed at the C2–C3 vertebral level using SCT commands:
